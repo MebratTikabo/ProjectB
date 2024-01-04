@@ -13,4 +13,11 @@ public class DemoB {
 	public static void add(int a , int b) {
 		System.out.println(a+b);
 	}
+	//getting from GitHub
+	public static void subtract(int a , int b) {
+		System.out.println(a-b);
+	}//coming from gitHub
+	public static void divide(int a , int b) {
+		System.out.println(a/b);
+	}
 }
