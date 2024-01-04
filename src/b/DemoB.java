@@ -22,7 +22,7 @@ public class DemoB {
 	}
 	//pulling from remote to local repository
 	public void test2(){
-	system.out.println("this is to test pulling");	
+	System.out.println("this is to test pulling");	
 	}
 	//practice pushing from local to remote
 	public void test() {
