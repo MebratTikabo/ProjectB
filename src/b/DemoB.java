@@ -20,7 +20,10 @@ public class DemoB {
 	public static void divide(int a , int b) {
 		System.out.println(a/b);
 	}
-	
+	//pulling from remote to local repository
+	public void test2(){
+	system.out.println("this is to test pulling");	
+	}
 	//practice pushing from local to remote
 	public void test() {
 		System.out.println("this is to test pushing");
